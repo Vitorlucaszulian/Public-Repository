@@ -1,6 +1,6 @@
 ## 🔧 Em desenvolvimento...
 
-# 🚀Repositorio Público 
+# 🚀Repositório Público 
 
 Bem-vindo ao meu repositório! Aqui você encontra meus principais projetos nas áreas de automação, robótica e programação.  
 
